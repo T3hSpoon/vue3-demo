@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ovidiu Toader",
+            "email": "constantinovidiutoader@gmail.com",
+            "password": "tetriandoch"            
+        },
+        {
+            "id": 2,
+            "name": "Ovidiu Constantin Toader",
+            "email": "constantin@gmail.com",
+            "password": "tetriandoch"            
+        },
+        {
+            "id": 3,
+            "name": "Ovidiu (Constantin) Toader",
+            "email": "ovidiutoader3@gmail.com",
+            "password": "tetriandoch"            
+        },
+        {
+            "id": 4,
+            "name": "Ovidiu T",
+            "email": "ovidiutoader3@gmail.com",
+            "password": "tetriandoch"            
+        },
+        {
+            "id": 5,
+            "name": "O. Toader",
+            "email": "ovidiutoader3@gmail.com",
+            "password": "tetriandoch"            
+        },
+        {
+            "id": 6,
+            "name": "Toader",
+            "email": "ovidiutoader3@gmail.com",
+            "password": "tetriandoch"            
+        }
+        
+
+    ]
+}
